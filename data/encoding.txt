@@ -1,0 +1,17 @@
+Pair,Encoding
+TC,5.6
+GA,5.6
+CA,5.8
+TG,5.8
+TA,6.0
+AC,6.5
+GT,6.5
+CT,7.8
+AG,7.8
+AT,8.6
+TT,9.1
+AA,9.1
+CC,11.0
+GG,11.0
+GC,11.1
+CG,11.9
